@@ -3,7 +3,7 @@ export const person = {
   lastName: "More",
   name: "Rutuja More",
   role: "Data Scientist & AI Engineer",
-  location: "North Dartmouth, MA",
+  location: "Elmhurst, NY",
   timezone: "America/New_York",
   email: "rutuja.more9499@gmail.com",
   phone: "774-518-0525",
@@ -20,7 +20,7 @@ export const social = [
   {
     name: "LinkedIn",
     icon: "linkedin",
-    link: "https://linkedin.com/in/rutuja-more",
+    link: "https://www.linkedin.com/in/rutuja-more-49a9aa206/",
   },
   {
     name: "Email",
