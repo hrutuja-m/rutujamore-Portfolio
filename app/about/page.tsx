@@ -11,13 +11,7 @@ export default function AboutPage() {
   return (
     <div className="flex flex-col gap-16">
       <header className="flex flex-col gap-6">
-        <Image
-          src={person.avatar || "/placeholder.svg"}
-          alt={person.name}
-          width={96}
-          height={96}
-          className="size-24 rounded-full object-cover"
-        />
+        
         <div className="flex flex-col gap-3">
           <h1 className="text-3xl font-semibold tracking-tight sm:text-4xl">{person.name}</h1>
           <p className="text-lg text-muted-foreground">{person.role}</p>
